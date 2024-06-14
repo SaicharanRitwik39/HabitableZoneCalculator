@@ -1,5 +1,7 @@
 # Habitable Zone Calculator
 
+![Planet GIF](https://imgur.com/kCGcUIb)
+
 This web application calculates the habitable zone (HZ) for a given star system using user input for the star's luminosity, semi-major axis of the planet's orbit, and the star's temperature. The app determines whether a planet is within the habitable zone based on the definitions provided by Kopparapu et al. (2014). The application is live at https://hzcalc.streamlit.app/
 
 ## Features
