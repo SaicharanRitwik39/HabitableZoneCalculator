@@ -29,5 +29,5 @@ This web application calculates the habitable zone (HZ) for a given star system 
 * Streamlit
 
 ## References
-* Kopparapu, R. K., Ramirez, R., Kasting, J. F., Eymet, V., Robinson, T. D., Mahadevan, S., ... & Deshpande, R. (2014). Habitable zones around main-sequence stars: new estimates. The Astrophysical Journal, 787(2), L29
-  
+* [Kopparapu et al. 2014](https://arxiv.org/abs/1301.6674)
+* Code inspired from [Eelt](https://github.com/Eelt/HabitableZoneCalculator)
